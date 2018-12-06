@@ -422,7 +422,7 @@
     "template": "dcatapvl-ap.j2",
     "title": "DCAT-AP VL",
     "contributors-file": "stakeholders.csv",
-    "config": "config-ap.json"
+    "config": "config/config-ap.json"
   },
   {
     "name": "begraafplaats",
