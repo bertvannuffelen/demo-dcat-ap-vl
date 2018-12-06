@@ -422,6 +422,7 @@
     "template": "dcatapvl-ap.j2",
     "title": "DCAT-AP VL",
     "contributors-file": "stakeholders.csv",
+    "contributors-column" : "DCATAPVL",
     "config": "config/config-ap.json"
   },
   {
