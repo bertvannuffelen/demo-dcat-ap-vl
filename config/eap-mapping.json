@@ -6,7 +6,7 @@
     "diagram": "OSLO-DCATAPVL",
     "contributors": "DCATAPVL",
     "template": "dcatapvl-ap.j2",
-    "title": "DCAT-AP VL"
+    "title": "DCAT-AP VL",
     "config": "config/config-ap.json",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
